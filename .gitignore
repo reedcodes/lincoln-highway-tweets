@@ -3,7 +3,6 @@
 
 # Working and development files.
 node_modules/
-package-lock.json
 
 # Tweet database.
 database/tweet.db
