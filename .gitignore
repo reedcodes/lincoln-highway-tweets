@@ -1,5 +1,13 @@
-node_modules/
 .cache
-_site
 .env
+
+# Working and development files.
+node_modules/
 package-lock.json
+
+# Tweet database.
+database/tweet.db
+
+# Built and compiled files.
+img/
+_site
